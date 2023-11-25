@@ -1,0 +1,18 @@
+{
+    "GUILD_ID": 0,
+    "voice": {
+        "channel": 0
+    },
+    "verif": {
+        "channel": 0,
+        "logs": 0,
+
+        "role": 0,
+        "prof": 0,
+        "invite": 0,
+        "classe": 0,
+        "activites": 0
+    },
+    "arrivees": 0,
+    "departs": 0
+}
